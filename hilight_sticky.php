@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Hilight Sticky
+Plugin Name: Hilight-Sticky
 Plugin URI: http://www.wpcourse.com
 Version:V1.05
 Author: tomheng
 Author URI:http://blog.webfuns.net
-Description:we have known how to start develeping a plugin on Wordpress
+Description:you can hilight your sticky post as you want.
  */
 function show_menu(){
     //在设置中添加一个菜单
