@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Hilight-Sticky
+Plugin Name: Hilight Sticky
 Plugin URI: http://www.wpcourse.com
 Version:V1.05
 Author: tomheng
